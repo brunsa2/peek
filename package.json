@@ -1,0 +1,9 @@
+{
+    "name": "peek",
+    "version": "1.1.0",
+    "description": "Take a peek into your Rails application.",
+    "main": "vendor/assets/javascripts/peek.js",
+    "repository": "https://github.com/peek/peek.git",
+    "author": "Garrett Bjerkhoel",
+    "license": "MIT"
+}
